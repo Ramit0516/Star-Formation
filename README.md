@@ -9,7 +9,7 @@ Key Features:
 
 3. Star Formation Model: Star-Formation offers a SPH-based star formation model that integrate the governing equations of hydrodynamics, gravity, and radiative transfer. This model accurately capture the physical processes occurring at different scales, from the collapse of molecular clouds to the formation of protostellar disks.
 
-4. High-Resolution Visualization: Witness the captivating beauty of star formation through StellarForge's high-resolution visualizations. The repository provides tools and techniques to render stunning images and videos, enabling users to observe and analyze the intricate structures and dynamic evolution of star-forming regions.
+4. High-Resolution Visualization: Witness the captivating beauty of star formation through Star-Formation's high-resolution visualizations. The repository provides tools and techniques to render stunning images and videos, enabling users to observe and analyze the intricate structures and dynamic evolution of star-forming regions.
 
 5. Parameter Exploration: Star-Formation empowers users to investigate the impact of various physical parameters on the star formation process. By modifying parameters such as gas density, initial conditions, and magnetic field strength, researchers can perform detailed sensitivity studies to gain insights into the underlying physics and better understand the conditions required for star formation.
 
